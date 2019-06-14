@@ -1,6 +1,7 @@
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+After cloning the project make sure you do `npm install` to install the node_modules.
 
 ## Development server
 
